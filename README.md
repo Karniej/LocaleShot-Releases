@@ -12,11 +12,11 @@ This is a download-only repository. The app source code is private.
 
 Download the current beta:
 
-[LocaleShot-0.1.0-macOS-arm64.zip](downloads/LocaleShot-0.1.0-macOS-arm64.zip)
+[LocaleShot-0.1.0-macOS-arm64.zip](https://raw.githubusercontent.com/Karniej/LocaleShot-Releases/main/downloads/LocaleShot-0.1.0-macOS-arm64.zip)
 
 Checksum:
 
-[LocaleShot-0.1.0-macOS-arm64.zip.sha256](downloads/LocaleShot-0.1.0-macOS-arm64.zip.sha256)
+[LocaleShot-0.1.0-macOS-arm64.zip.sha256](https://raw.githubusercontent.com/Karniej/LocaleShot-Releases/main/downloads/LocaleShot-0.1.0-macOS-arm64.zip.sha256)
 
 ## Requirements
 
