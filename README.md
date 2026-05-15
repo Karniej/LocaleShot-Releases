@@ -59,7 +59,7 @@ LocaleShot is local-only. It does not collect telemetry, analytics, accounts, or
 
 ## License
 
-The released app is free for indie developers during the public beta. See [LICENSE](LICENSE).
+The released app is free for indie developers during the public beta. Source code remains private. See [LICENSE](LICENSE).
 
 ## Source Code
 
