@@ -13,6 +13,7 @@ LocaleShot stores project data and generated screenshots locally on your Mac:
 - Project settings, selected app bundle IDs, selected languages, and recorded flow steps
 - Generated screenshots and manual checkpoint screenshots
 - Local diagnostics files if you explicitly export them
+- Recent local LocaleShot crash report excerpts inside exported diagnostics, if macOS created crash reports
 
 By default, app data is stored in Application Support for packaged builds and in `.localizedscreenshots/` when running from the Swift package.
 

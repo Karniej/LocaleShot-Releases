@@ -29,13 +29,15 @@ Checksum:
 
 1. Download and unzip `LocaleShot-0.1.0-macOS-arm64.zip`.
 2. Move `LocaleShot.app` to `/Applications`.
-3. Open it. If macOS blocks launch, right-click and choose `Open`.
+3. Open LocaleShot. The app is Developer ID signed and notarized by Apple.
 4. Grant Accessibility permission when prompted.
 5. Open your target iOS app in Simulator.
 6. Attach the Simulator.
 7. Choose languages.
-8. Record checkpoints.
+8. Record checkpoints. To enter text, focus the text field in Simulator, then use LocaleShot's `Type` control so the typed text is recorded and replayed.
 9. Generate localized screenshots.
+
+If LocaleShot crashes, reopen it and use `Export Diagnostics`. The exported file includes project state, run logs, and recent local LocaleShot crash report excerpts if macOS created any.
 
 ## What Is In This Repository
 
